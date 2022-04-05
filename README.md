@@ -13,7 +13,7 @@ There were originaly taken from other datasets and processed into such style. Th
 - Hand
 - HeadCT
 
-[![Image](https://github.com/Code-with-Palak/Machine-Learning-Algorithmic-Optimizer/blob/main/tool.png)](https://github.com/Code-with-Palak/Medical-Mnist-Classification-Deep-Learning/blob/main/medical%20mnist.png)
+[![Image](https://github.com/Code-with-Palak/Medical-Mnist-Classification-Deep-Learning/blob/main/medical%20mnist.png)]
 
 🎯 This can be accessed from the link: 
 https://www.kaggle.com/datasets/andrewmvd/medical-mnist
